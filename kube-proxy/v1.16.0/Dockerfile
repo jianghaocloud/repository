@@ -1,0 +1,2 @@
+From k8s.gcr.io/kube-proxy:v1.16.0 
+MAINTAINER jianghao <1123056457@qq.com>
